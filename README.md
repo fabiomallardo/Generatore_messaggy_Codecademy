@@ -12,7 +12,7 @@ I messaggi possono appartenere a diverse categorie, come **oroscopo, barzellette
 ## 🛠 Installazione  
 1. **Clona il repository**  
    ```sh
-   git clone <URL_DEL_REPO>
+   git clone <https://github.com/fabiomallardo/Generatore_messaggy_Codecademy>
    cd message-generator 
 
 
